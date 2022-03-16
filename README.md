@@ -1,5 +1,3 @@
-# mergulho-spring-rest
-
 ![GitHub language count](https://img.shields.io/github/languages/count/SiqueiraAndre/msr-algalog?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/SiqueiraAndre/msr-algalog?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/SiqueiraAndre/msr-algalog?style=for-the-badge)
