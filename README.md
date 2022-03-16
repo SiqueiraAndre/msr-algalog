@@ -1,8 +1,3 @@
-![GitHub language count](https://img.shields.io/github/languages/count/SiqueiraAndre/msr-algalog?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/SiqueiraAndre/msr-algalog?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/SiqueiraAndre/msr-algalog?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/SiqueiraAndre/msr-algalog?style=for-the-badge)
-
 ![demonstração](https://cafe.algaworks.com/wp-content/uploads/2021/04/MSR-300px.png)
 
 > A algalog-api é uma api de logistica criado durante o evento Mergulho Spring Rest promovido pela AlgaWorks.
