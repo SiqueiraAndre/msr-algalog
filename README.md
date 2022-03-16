@@ -30,7 +30,7 @@
 * ModelMapper
 
 ## 🚀 Como executar o projeto
-* Necessário ter o WAMP 
+* Necessário ter o MYSQL 8.0 
 
 ```bash
 # Entrar no diretório do projeto
