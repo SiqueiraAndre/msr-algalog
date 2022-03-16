@@ -40,11 +40,13 @@
 ```bash
 # Entrar no diretório do projeto
 $ cd algalog-api
+```
 
-No terminal, digite o comando:
 ```bash
+No terminal, digite o comando:
 ./mvnw spring-boot:run 
 ```
+
 Após, utilize os links:
 ```bash
 # endpoint clientes
