@@ -34,55 +34,12 @@
 * Flyway
 * ModelMapper
 
-## 🚀 Execução do projeto
-
-```bash
-# Clone do repositório
-$ git clone https://github.com/SiqueiraAndre/msr-algalog
-```
-
-```bash
-# Limpar o diretório target
-$ mvn clean
-
-# Criar o fat JAR
-$ mvn package
-```
+## 🚀 Como executar o projeto
+* Necessário ter o WAMP 
 
 ```bash
 # Entrar no diretório do projeto
 $ cd algalog-api
-
-# Entrar no diretório target
-$ cd target/ 
-```
-
-```bash
-# Executar o fat JAR
-$ java -jar algalog-api-0.0.1-SNAPSHOT
-```
-
-Entrar em http://localhost:8080
-
-
-## Sobre
-Desenvolvimento de uma API REST de gerenciamento de entregas durante o evento Mergulho Spring REST da [AlgaWorks](https://www.algaworks.com "Site da AlgaWorks").
-
-```
-Para as requisições utilize: 
-```bash
-# endpoint clientes
-https://algalog-api-asiqueira.herokuapp.com/api/v1/clients
-
-# endpoint entregas
-https://algalog-api-asiqueira.herokuapp.com/api/v1/deliveries
-
-# endpoint ocorrências
-https://algalog-api-asiqueira.herokuapp.com/api/v1/deliveries/{deliveryId}/ocurrences
-```
-
-### Como executar o projeto
-* Necessário ter o WAMP 
 
 No terminal, digite o comando:
 ```bash
@@ -99,3 +56,6 @@ http://localhost:8080/api/v1/deliveries
 # endpoint ocorrências
 http://localhost:8080/api/v1/deliveries/{deliveryId}/ocurrences
 ```
+
+## Sobre
+Desenvolvimento de uma API REST de gerenciamento de entregas durante o evento Mergulho Spring REST da [AlgaWorks](https://www.algaworks.com "Site da AlgaWorks").
