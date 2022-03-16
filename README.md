@@ -47,7 +47,8 @@ No terminal, digite o comando:
 ./mvnw spring-boot:run 
 ```
 
-Após, utilize os links:
+* Após, utilize os links: 
+
 ```bash
 # endpoint clientes
 http://localhost:8080/api/v1/clients
