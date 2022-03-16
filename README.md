@@ -16,7 +16,7 @@
 
 ## ✏️ Modelo conceitual
 
-![modelo-conceitual](https://github.com/SiqueiraAndre/msr-algalog/blob/master/.github/modelo-conceitual.PNG)
+![modelo-conceitual](https://github.com/SiqueiraAndre/msr-algalog/blob/master/model.PNG)
 
 
 ## Sobre
