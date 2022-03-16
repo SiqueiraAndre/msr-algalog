@@ -16,13 +16,58 @@
 
 ![modelo-conceitual](https://github.com/SiqueiraAndre/msr-algalog/blob/master/model.png)
 
+## 💻 Pré-requisitos
+
+* Java 11 ou superior
+* Maven
+* IDE favorita
+
+## 💻 Tecnologias
+
+* Java 11
+* Spring 
+  * Spring Boot
+  * Hibernate Validation
+  * DevTools
+* Lombok
+* MySQL 
+* Flyway
+* ModelMapper
+
+## 🚀 Execução do projeto
+
+```bash
+# Clone do repositório
+$ git clone https://github.com/SiqueiraAndre/msr-algalog
+```
+
+```bash
+# Limpar o diretório target
+$ mvn clean
+
+# Criar o fat JAR
+$ mvn package
+```
+
+```bash
+# Entrar no diretório do projeto
+$ cd algalog-api
+
+# Entrar no diretório target
+$ cd target/ 
+```
+
+```bash
+# Executar o fat JAR
+$ java -jar algalog-api-0.0.1-SNAPSHOT
+```
+
+Entrar em http://localhost:8080
+
 
 ## Sobre
 Desenvolvimento de uma API REST de gerenciamento de entregas durante o evento Mergulho Spring REST da [AlgaWorks](https://www.algaworks.com "Site da AlgaWorks").
 
-Link da API no Heroku: 
-```bash
-https://algalog-api-asiqueira.herokuapp.com
 ```
 Para as requisições utilize: 
 ```bash
